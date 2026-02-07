@@ -29,4 +29,4 @@ The assistant follows a 4-step process to ensure accuracy and transparency:
 * **Pandas:** For displaying the final report in a clean, aligned table.
 
 ## Author's Note
-Coming from a technical background, I knew how to build the AI, but the **PRA** and **COREP** world was a new challenge for me. This project represents my journey of learning those complex rules and building a system that can actually help human analysts do their jobs faster and with fewer mistakes.
+This project was a huge learning for me. It pushed me to move beyond just writing code and actually try to solve a real-world problem. I hope this prototype demonstrates not just my technical skills with LLMs, but also my ability to learn a complex new domain and build something truly useful for it.
