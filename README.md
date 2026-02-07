@@ -29,4 +29,14 @@ The assistant follows a 4-step process to ensure accuracy and transparency:
 * **Pandas:** For displaying the final report in a clean, aligned table.
 
 ## Author's Note
+When I first approached this project, I was comfortable with the technical side of RAGs, but the world of PRA Rulebooks and COREP reporting was very new to me. I knew how to make an AI find things from vector stores, but I didn't yet understand what it was looking for or why it mattered to a bank.
+
+To solve this, I spent time looking into the actual flow of regulatory data. I realized that the challenge isn't just searching for text, it’s about connecting three things:
+
+The complex legal language of the Rulebook.
+The technical instructions for the templates.
+To match the bank's messy data into the template.
+
+I built this prototype to act as a bridge. Instead of just giving a general answer, the assistant focuses on getting things exactly right. It takes a simple description of a bank's situation, searches the database for the specific rules that apply, and then organizes the answer into a clear table that looks just like a real reporting form.
+
 This project was a huge learning for me. It pushed me to move beyond just writing code and actually try to solve a real-world problem. I hope this prototype demonstrates not just my technical skills with LLMs, but also my ability to learn a complex new domain and build something truly useful for it.
